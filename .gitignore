@@ -1,0 +1,39 @@
+# Standard C/Linux Project .gitignore
+
+# Compiled source #
+*.o
+*.obj
+*.so
+*.exe
+*.out
+
+# Libraries #
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+
+# Executables #
+*.exe
+*.out
+
+# Backup files #
+*~
+*.bak
+*.swp
+
+# Code coverage #
+*.gcda
+*.gcno
+
+# DS_Store on Mac #
+.DS_Store
+
+# Visual Studio Code #
+.vscode/
+
+# IDE specific files #  
+*.idea/
+*.sublime-workspace
+*.sublime-project
